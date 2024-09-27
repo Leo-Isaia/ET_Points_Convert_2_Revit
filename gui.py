@@ -1,10 +1,10 @@
 from pathlib import Path
 from tkinter import Tk, Canvas, PhotoImage, Text, Scrollbar, filedialog, messagebox
+from pathlib import Path
 from PIL import Image, ImageTk
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"C:\Users\Lynke\Mega\Pruebas Python\AppConvert\build\assets\frame0")
-
+ASSETS_PATH = OUTPUT_PATH / "assets" / "frame0"
 
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
