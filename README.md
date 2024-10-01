@@ -13,4 +13,4 @@ Todo ello desde una simple interfaz para el usuario donde podrá consultar los p
 Espero les sirva para evitar tener copiar, pegar o manipular los datos en alguna planilla de cálculos, con el posible error humano de por medio.
 
 
-[Descargar Convertir Puntos ET](https://github.com/Leo-Isaia/ET_Points_Convert_2_Revit/blob/main/dist/Convertir%20Puntos%20ET.exe)
+[Descargar Convertir Puntos ET](https://github.com/Leo-Isaia/ET_Points_Convert_2_Revit/blob/main/Convertir%20Coordenadas%20ET%20para%20Revit.exe)
